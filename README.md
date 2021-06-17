@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @lsuarez1225
+- 👀 I’m interested in software programming
+- 🌱 I’m currently learning Java Spring Boot
+- 💞️ I’m looking to collaborate on wathever can teach me something
+- 📫 How to reach me lsuarez1225@gmail.com +57 3102631399
